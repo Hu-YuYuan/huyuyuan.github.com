@@ -1,2 +1,1 @@
-# huyuyuan.github.com
-Learning Share
+##Learning Share
